@@ -1,0 +1,27 @@
+/Board.h/1.1/Sun Feb  4 20:35:39 2018//
+/Makefile/1.1/Sun Feb  4 20:53:42 2018//
+/Move.h/1.2/Mon Feb  5 00:33:09 2018//
+/Move.c/1.7/Mon Feb  5 06:45:46 2018//
+/Piece.h/1.2/Mon Feb  5 03:22:27 2018//
+/ChessBot_AI.h/1.3/Mon Feb  5 10:11:55 2018//
+/Board.c/1.7/Mon Feb  5 11:18:01 2018//
+/ChessBot_AI.c/1.7/Mon Feb  5 11:18:01 2018//
+/Main.c/1.13/Mon Feb  5 11:30:05 2018//
+/Bbishop.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Bhorse.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Bking.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Bpawn.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Bqueen.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Brook.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Chess_Board_Black.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Chess_Board_Side.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Chess_Board_White.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/GUI.c/1.2/Mon Feb  5 11:34:36 2018//
+/GUI.h/1.2/Mon Feb  5 11:34:36 2018//
+/Wbishop.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Whorse.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Wking.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Wpawn.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Wqueen.bmp/1.1/Mon Feb  5 11:34:26 2018//
+/Wrook.bmp/1.1/Mon Feb  5 11:34:26 2018//
+D

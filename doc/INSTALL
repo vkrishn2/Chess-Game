@@ -1,0 +1,14 @@
+System Requirements:
+Linux environment kernel number 2.6.32-696.18.7.el6.x86_64 Release 6.9
+
+System Setup and Configuration 
+In order to setup the ChessBot program, type in tar -xvzf (directory and file name). If you download the source code package, type "make" and then run the executable file. If you download the customer package, immediately begin running the executable file.
+Tip: Please refer to user Manual or Software spec for more detailed installation instructions.
+
+
+
+Uninstalling
+Step 1: First make sure you are in the same file as the Chess Game
+Step 2: Then type “make clean”
+Step 3: Then exit the folder you are in and then delete the folder
+
